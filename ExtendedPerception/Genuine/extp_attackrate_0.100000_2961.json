@@ -1,0 +1,2528 @@
+{"EP":[
+	{
+		"timestamp": 94.144678406478,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2095.977572,
+		"Yegopsumoposition": 649.923420,
+		"longitude": 2.200819,
+		"latitude": 48.714596,
+		"longspeed": 0.000000,
+		"longacceleration": 0.000000,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 1,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2066.891225,
+				"Ycoordinate": 404.882477,
+				"Velocity": 698
+			}
+		]
+	},
+	{
+		"timestamp": 94.184389723209,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2095.977572,
+		"Yegopsumoposition": 649.923420,
+		"longitude": 2.200819,
+		"latitude": 48.714596,
+		"longspeed": 0.000000,
+		"longacceleration": 0.000000,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 3,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2066.891225,
+				"Ycoordinate": 404.882477,
+				"Velocity": 698
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2253.089586,
+				"Ycoordinate": 369.726426,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042994184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2253.089586,
+				"Ycoordinate": 369.726426,
+				"Velocity": 705
+			}
+		]
+	},
+	{
+		"timestamp": 94.197500907125,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2095.977572,
+		"Yegopsumoposition": 649.923420,
+		"longitude": 2.200819,
+		"latitude": 48.714596,
+		"longspeed": 0.000000,
+		"longacceleration": 0.000000,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 4,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2066.891225,
+				"Ycoordinate": 404.882477,
+				"Velocity": 698
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042994184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2253.089586,
+				"Ycoordinate": 369.726426,
+				"Velocity": 705
+			}
+		]
+	},
+	{
+		"timestamp": 94.200120860064,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2096.002481,
+		"Yegopsumoposition": 649.918612,
+		"longitude": 2.200820,
+		"latitude": 48.714596,
+		"longspeed": 0.253692,
+		"longacceleration": 2.536918,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2066.891225,
+				"Ycoordinate": 404.882477,
+				"Velocity": 698
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 2999
+			}
+		]
+	},
+	{
+		"timestamp": 95.144678405572,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2097.235657,
+		"Yegopsumoposition": 649.680580,
+		"longitude": 2.200836,
+		"latitude": 48.714594,
+		"longspeed": 2.236219,
+		"longacceleration": 1.701944,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2056.374077,
+				"Ycoordinate": 406.604745,
+				"Velocity": 696
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 2999
+			}
+		]
+	},
+	{
+		"timestamp": 95.184357705209,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2097.235657,
+		"Yegopsumoposition": 649.680580,
+		"longitude": 2.200836,
+		"latitude": 48.714594,
+		"longspeed": 2.236219,
+		"longacceleration": 1.701944,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2056.374077,
+				"Ycoordinate": 406.604745,
+				"Velocity": 696
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042995184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2246.152013,
+				"Ycoordinate": 371.144111,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 2999
+			}
+		]
+	},
+	{
+		"timestamp": 95.196963795843,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2097.235657,
+		"Yegopsumoposition": 649.680580,
+		"longitude": 2.200836,
+		"latitude": 48.714594,
+		"longspeed": 2.236219,
+		"longacceleration": 1.701944,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2056.374077,
+				"Ycoordinate": 406.604745,
+				"Velocity": 696
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2231.689775,
+				"Ycoordinate": 374.119051,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042995184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2246.152013,
+				"Ycoordinate": 371.144111,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 2999
+			}
+		]
+	},
+	{
+		"timestamp": 95.200016918703,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2097.476098,
+		"Yegopsumoposition": 649.634169,
+		"longitude": 2.200840,
+		"latitude": 48.714593,
+		"longspeed": 2.448788,
+		"longacceleration": 2.125688,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2056.374077,
+				"Ycoordinate": 406.604745,
+				"Velocity": 696
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2231.689775,
+				"Ycoordinate": 374.119051,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042995184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2246.152013,
+				"Ycoordinate": 371.144111,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			}
+		]
+	},
+	{
+		"timestamp": 96.144678406595,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2100.516976,
+		"Yegopsumoposition": 649.047208,
+		"longitude": 2.200881,
+		"latitude": 48.714588,
+		"longspeed": 4.290355,
+		"longacceleration": 2.459862,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2046.826318,
+				"Ycoordinate": 408.161225,
+				"Velocity": 703
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2231.689775,
+				"Ycoordinate": 374.119051,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042995184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2246.152013,
+				"Ycoordinate": 371.144111,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			}
+		]
+	},
+	{
+		"timestamp": 96.18435768346,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2100.516976,
+		"Yegopsumoposition": 649.047208,
+		"longitude": 2.200881,
+		"latitude": 48.714588,
+		"longspeed": 4.290355,
+		"longacceleration": 2.459862,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2046.826318,
+				"Ycoordinate": 408.161225,
+				"Velocity": 703
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042995196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2231.689775,
+				"Ycoordinate": 374.119051,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042996184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2239.229272,
+				"Ycoordinate": 372.572767,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			}
+		]
+	},
+	{
+		"timestamp": 96.196885713617,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2100.516976,
+		"Yegopsumoposition": 649.047208,
+		"longitude": 2.200881,
+		"latitude": 48.714588,
+		"longspeed": 4.290355,
+		"longacceleration": 2.459862,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2046.826318,
+				"Ycoordinate": 408.161225,
+				"Velocity": 703
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2224.788877,
+				"Ycoordinate": 375.525262,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042996184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2239.229272,
+				"Ycoordinate": 372.572767,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			}
+		]
+	},
+	{
+		"timestamp": 96.197370995532,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2100.516976,
+		"Yegopsumoposition": 649.047208,
+		"longitude": 2.200881,
+		"latitude": 48.714588,
+		"longspeed": 4.290355,
+		"longacceleration": 2.459862,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2046.826318,
+				"Ycoordinate": 408.161225,
+				"Velocity": 703
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2224.788877,
+				"Ycoordinate": 375.525262,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042996184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2239.229272,
+				"Ycoordinate": 372.572767,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			}
+		]
+	},
+	{
+		"timestamp": 97.135592673977,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2105.826536,
+		"Yegopsumoposition": 648.022338,
+		"longitude": 2.200953,
+		"latitude": 48.714580,
+		"longspeed": 6.406877,
+		"longacceleration": 2.571081,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2046.826318,
+				"Ycoordinate": 408.161225,
+				"Velocity": 703
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2224.788877,
+				"Ycoordinate": 375.525262,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042996184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2239.229272,
+				"Ycoordinate": 372.572767,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			}
+		]
+	},
+	{
+		"timestamp": 97.144678410196,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2105.826536,
+		"Yegopsumoposition": 648.022338,
+		"longitude": 2.200953,
+		"latitude": 48.714580,
+		"longspeed": 6.406877,
+		"longacceleration": 2.571081,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 6,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2038.020488,
+				"Ycoordinate": 409.609885,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2224.788877,
+				"Ycoordinate": 375.525262,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042996184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2239.229272,
+				"Ycoordinate": 372.572767,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			}
+		]
+	},
+	{
+		"timestamp": 97.184389658386,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2105.826536,
+		"Yegopsumoposition": 648.022338,
+		"longitude": 2.200953,
+		"latitude": 48.714580,
+		"longspeed": 6.406877,
+		"longacceleration": 2.571081,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 7,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2038.020488,
+				"Ycoordinate": 409.609885,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2224.788877,
+				"Ycoordinate": 375.525262,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042997184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2232.291706,
+				"Ycoordinate": 373.990469,
+				"Velocity": 711
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042997184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2232.291706,
+				"Ycoordinate": 373.990469,
+				"Velocity": 2994
+			}
+		]
+	},
+	{
+		"timestamp": 97.196937436094,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2105.826536,
+		"Yegopsumoposition": 648.022338,
+		"longitude": 2.200953,
+		"latitude": 48.714580,
+		"longspeed": 6.406877,
+		"longacceleration": 2.571081,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 8,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2038.020488,
+				"Ycoordinate": 409.609885,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042996196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2224.788877,
+				"Ycoordinate": 375.525262,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042997184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2232.291706,
+				"Ycoordinate": 373.990469,
+				"Velocity": 711
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2151.324321,
+				"Ycoordinate": 379.295641,
+				"Velocity": 1986
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042997184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2232.291706,
+				"Ycoordinate": 373.990469,
+				"Velocity": 2994
+			}
+		]
+	},
+	{
+		"timestamp": 97.197481727456,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2105.826536,
+		"Yegopsumoposition": 648.022338,
+		"longitude": 2.200953,
+		"latitude": 48.714580,
+		"longspeed": 6.406877,
+		"longacceleration": 2.571081,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 8,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2038.020488,
+				"Ycoordinate": 409.609885,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042997184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2232.291706,
+				"Ycoordinate": 373.990469,
+				"Velocity": 711
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2151.324321,
+				"Ycoordinate": 379.295641,
+				"Velocity": 1986
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 2994
+			}
+		]
+	},
+	{
+		"timestamp": 98.135592623604,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2113.089175,
+		"Yegopsumoposition": 646.620477,
+		"longitude": 2.201052,
+		"latitude": 48.714568,
+		"longspeed": 8.253803,
+		"longacceleration": 2.501713,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 8,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2038.020488,
+				"Ycoordinate": 409.609885,
+				"Velocity": 706
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042997184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2232.291706,
+				"Ycoordinate": 373.990469,
+				"Velocity": 711
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2151.324321,
+				"Ycoordinate": 379.295641,
+				"Velocity": 1986
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 2994
+			}
+		]
+	},
+	{
+		"timestamp": 98.144678417135,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2113.089175,
+		"Yegopsumoposition": 646.620477,
+		"longitude": 2.201052,
+		"latitude": 48.714568,
+		"longspeed": 8.253803,
+		"longacceleration": 2.501713,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 8,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2029.765443,
+				"Ycoordinate": 410.963842,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042997184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2232.291706,
+				"Ycoordinate": 373.990469,
+				"Velocity": 711
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2151.324321,
+				"Ycoordinate": 379.295641,
+				"Velocity": 1986
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 2994
+			}
+		]
+	},
+	{
+		"timestamp": 98.184357630813,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2113.089175,
+		"Yegopsumoposition": 646.620477,
+		"longitude": 2.201052,
+		"latitude": 48.714568,
+		"longspeed": 8.253803,
+		"longacceleration": 2.501713,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 8,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2029.765443,
+				"Ycoordinate": 410.963842,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042998184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2225.383568,
+				"Ycoordinate": 375.407872,
+				"Velocity": 714
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2151.324321,
+				"Ycoordinate": 379.295641,
+				"Velocity": 1986
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 2994
+			}
+		]
+	},
+	{
+		"timestamp": 98.196535343392,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2113.089175,
+		"Yegopsumoposition": 646.620477,
+		"longitude": 2.201052,
+		"latitude": 48.714568,
+		"longspeed": 8.253803,
+		"longacceleration": 2.501713,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 8,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2029.765443,
+				"Ycoordinate": 410.963842,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042997196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2217.866031,
+				"Ycoordinate": 376.942828,
+				"Velocity": 702
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042998184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2225.383568,
+				"Ycoordinate": 375.407872,
+				"Velocity": 714
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 98.196917521178,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2113.089175,
+		"Yegopsumoposition": 646.620477,
+		"longitude": 2.201052,
+		"latitude": 48.714568,
+		"longspeed": 8.253803,
+		"longacceleration": 2.501713,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 8,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2029.765443,
+				"Ycoordinate": 410.963842,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2210.943187,
+				"Ycoordinate": 378.360403,
+				"Velocity": 712
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042998184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2225.383568,
+				"Ycoordinate": 375.407872,
+				"Velocity": 714
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 98.197357672799,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2113.089175,
+		"Yegopsumoposition": 646.620477,
+		"longitude": 2.201052,
+		"latitude": 48.714568,
+		"longspeed": 8.253803,
+		"longacceleration": 2.501713,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2210.943187,
+				"Ycoordinate": 378.360403,
+				"Velocity": 712
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042998184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2225.383568,
+				"Ycoordinate": 375.407872,
+				"Velocity": 714
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.104283429726,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2210.943187,
+				"Ycoordinate": 378.360403,
+				"Velocity": 712
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042998184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2225.383568,
+				"Ycoordinate": 375.407872,
+				"Velocity": 714
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.135592580503,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2210.943187,
+				"Ycoordinate": 378.360403,
+				"Velocity": 712
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042998184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2225.383568,
+				"Ycoordinate": 375.407872,
+				"Velocity": 714
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.14467842776,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2021.953054,
+				"Ycoordinate": 412.435454,
+				"Velocity": 700
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2210.943187,
+				"Ycoordinate": 378.360403,
+				"Velocity": 712
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042998184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2225.383568,
+				"Ycoordinate": 375.407872,
+				"Velocity": 714
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.18435760152,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2021.953054,
+				"Ycoordinate": 412.435454,
+				"Velocity": 700
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2210.943187,
+				"Ycoordinate": 378.360403,
+				"Velocity": 712
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042999184,
+				"Observer": 1877275357,
+				"Xcoordinate": 2218.460722,
+				"Ycoordinate": 376.825437,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042994199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2219.783721,
+				"Ycoordinate": 373.187443,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.194102168099,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2021.953054,
+				"Ycoordinate": 412.435454,
+				"Velocity": 700
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 1985
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.196503255256,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2021.953054,
+				"Ycoordinate": 412.435454,
+				"Velocity": 700
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2146.812641,
+				"Ycoordinate": 357.342247,
+				"Velocity": 1990
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.196898423058,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999144,
+				"Observer": 1877275285,
+				"Xcoordinate": 2021.953054,
+				"Ycoordinate": 412.435454,
+				"Velocity": 700
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2204.035060,
+				"Ycoordinate": 379.777832,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2135.392662,
+				"Ycoordinate": 393.692309,
+				"Velocity": 811
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2146.812641,
+				"Ycoordinate": 357.342247,
+				"Velocity": 1990
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.197364641924,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2122.275784,
+		"Yegopsumoposition": 644.847244,
+		"longitude": 2.201178,
+		"latitude": 48.714553,
+		"longspeed": 10.237771,
+		"longacceleration": 1.999490,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2110.069033,
+				"Ycoordinate": 397.826340,
+				"Velocity": 700
+			},
+			{
+				"PerceivedObjectID": 1381,
+				"SumoPerceivedObjectID": "a22",
+				"LastUpdateTime": 444042994196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2238.619868,
+				"Ycoordinate": 372.690309,
+				"Velocity": 2991
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2204.035060,
+				"Ycoordinate": 379.777832,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2110.069033,
+				"Ycoordinate": 397.826340,
+				"Velocity": 787
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2146.812641,
+				"Ycoordinate": 357.342247,
+				"Velocity": 1990
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			}
+		]
+	},
+	{
+		"timestamp": 99.277915993327,
+		"myStationId": 2961,
+		"mySumoId": "a47",
+		"Xegosumoposition": 2123.297924,
+		"Yegopsumoposition": 644.649947,
+		"longitude": 2.201191,
+		"latitude": 48.714551,
+		"longspeed": 10.410073,
+		"longacceleration": 1.723014,
+		"orientationangle": 1009.000000,
+		"numberExtObjects": 9,
+		"Extended_Perceived_Objects":[
+			{
+				"PerceivedObjectID": 1238,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2110.069033,
+				"Ycoordinate": 397.826340,
+				"Velocity": 700
+			},
+			{
+				"PerceivedObjectID": 1453,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275264,
+				"Xcoordinate": 2204.035060,
+				"Ycoordinate": 379.777832,
+				"Velocity": 709
+			},
+			{
+				"PerceivedObjectID": 1596,
+				"SumoPerceivedObjectID": "a24",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 705
+			},
+			{
+				"PerceivedObjectID": 1740,
+				"SumoPerceivedObjectID": "a26",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275398,
+				"Xcoordinate": 2110.069033,
+				"Ycoordinate": 397.826340,
+				"Velocity": 787
+			},
+			{
+				"PerceivedObjectID": 1812,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2146.812641,
+				"Ycoordinate": 357.342247,
+				"Velocity": 1990
+			},
+			{
+				"PerceivedObjectID": 2243,
+				"SumoPerceivedObjectID": "a37",
+				"LastUpdateTime": 444042999193,
+				"Observer": 1877275377,
+				"Xcoordinate": 2274.820072,
+				"Ycoordinate": 365.997452,
+				"Velocity": 708
+			},
+			{
+				"PerceivedObjectID": 2387,
+				"SumoPerceivedObjectID": "a39",
+				"LastUpdateTime": 444042995199,
+				"Observer": 1877275234,
+				"Xcoordinate": 2249.119574,
+				"Ycoordinate": 367.177655,
+				"Velocity": 2928
+			},
+			{
+				"PerceivedObjectID": 2531,
+				"SumoPerceivedObjectID": "a41",
+				"LastUpdateTime": 444042998196,
+				"Observer": 1877275418,
+				"Xcoordinate": 2141.797276,
+				"Ycoordinate": 332.959498,
+				"Velocity": 2717
+			},
+			{
+				"PerceivedObjectID": 2603,
+				"SumoPerceivedObjectID": "",
+				"LastUpdateTime": 444042999277,
+				"Observer": 1877275224,
+				"Xcoordinate": 1940.210133,
+				"Ycoordinate": 901.777546,
+				"Velocity": 2992
+			}
+		]
+	},
+	{
+	}
+]}
+

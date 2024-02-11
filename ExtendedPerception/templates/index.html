@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Perception Étendue</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        #map { height: 400px; width: 100%; }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { border: 1px solid black; padding: 8px; text-align: left; }
+    </style>
+</head>
+<body>
+    <h2>Données de Perception Étendue</h2>
+    <div id="map"></div>
+    <h3>Tableau des Objets Perçus</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Timestamp</th>
+                <th>ID Objet Perçu</th>
+                <th>Distance à l'Ego (m)</th>
+                <th>Coordonnées (X, Y)</th>
+            </tr>
+        </thead>
+        <tbody id="data-table"></tbody>
+    </table>
+    <script>
+        var map = L.map('map').setView([2206.517266, 1054.367948], 13);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+        function fetchData() {
+            fetch('/data')
+                .then(response => response.json())
+                .then(data => {
+                    document.getElementById('data-table').innerHTML = ''; // Clear previous entries
+                    data.forEach(item => {
+                        // Add row to table
+                        const row = `<tr>
+                                        <td>${item.timestamp}</td>
+                                        <td>${item.PerceivedObjectID}</td>
+                                        <td>${item.DistanceToEgo.toFixed(2)}</td>
+                                        <td>${item.Xcoordinate}, ${item.Ycoordinate}</td>
+                                     </tr>`;
+                        document.getElementById('data-table').innerHTML += row;
+
+                        // Add marker to map
+                        L.marker([item.Ycoordinate, item.Xcoordinate])
+                            .bindPopup(`ID: ${item.PerceivedObjectID}, Distance: ${item.DistanceToEgo.toFixed(2)}m`)
+                            .addTo(map);
+                    });
+                })
+                .catch(error => console.error('Error fetching data:', error));
+        }
+
+        fetchData(); // Fetch data on load
+        setInterval(fetchData, 10000); // Refresh data every 10 seconds
+    </script>
+</body>
+</html>
